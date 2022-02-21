@@ -93,13 +93,7 @@ public class ObjectFactory {
         return new ArrResult();
     }
 
-    /**
-     * Create an instance of {@link PackageActivation }
-     * 
-     */
-    public PackageActivation createPackageActivation() {
-        return new PackageActivation();
-    }
+   
 
     /**
      * Create an instance of {@link ArrLogin }
@@ -109,13 +103,7 @@ public class ObjectFactory {
         return new ArrLogin();
     }
 
-    /**
-     * Create an instance of {@link ArrActivation }
-     * 
-     */
-    public ArrActivation createArrActivation() {
-        return new ArrActivation();
-    }
+    
 
     /**
      * Create an instance of {@link ArrAddOnHSFI }
@@ -173,14 +161,7 @@ public class ObjectFactory {
         return new PackageActivationResponse();
     }
 
-    /**
-     * Create an instance of {@link PackageActivationFusion }
-     * 
-     */
-    public PackageActivationFusion createPackageActivationFusion() {
-        return new PackageActivationFusion();
-    }
-
+  
     /**
      * Create an instance of {@link ArrBrm }
      * 
@@ -197,13 +178,7 @@ public class ObjectFactory {
         return new PackageActivationFusionResponse();
     }
 
-    /**
-     * Create an instance of {@link PackageActivationEnlaceFusion }
-     * 
-     */
-    public PackageActivationEnlaceFusion createPackageActivationEnlaceFusion() {
-        return new PackageActivationEnlaceFusion();
-    }
+   
 
     /**
      * Create an instance of {@link ArrIPStaticCCTV }
@@ -221,13 +196,7 @@ public class ObjectFactory {
         return new PackageActivationEnlaceFusionResponse();
     }
 
-    /**
-     * Create an instance of {@link PackageActivationEnlace }
-     * 
-     */
-    public PackageActivationEnlace createPackageActivationEnlace() {
-        return new PackageActivationEnlace();
-    }
+   
 
     /**
      * Create an instance of {@link PackageActivationEnlaceResponse }
@@ -237,13 +206,7 @@ public class ObjectFactory {
         return new PackageActivationEnlaceResponse();
     }
 
-    /**
-     * Create an instance of {@link Suppression }
-     * 
-     */
-    public Suppression createSuppression() {
-        return new Suppression();
-    }
+   
 
     /**
      * Create an instance of {@link SuppressionResponse }
@@ -325,13 +288,7 @@ public class ObjectFactory {
         return new UpgradeResponse();
     }
 
-    /**
-     * Create an instance of {@link SetAdon }
-     * 
-     */
-    public SetAdon createSetAdon() {
-        return new SetAdon();
-    }
+   
 
     /**
      * Create an instance of {@link SetAdonResponse }
@@ -437,21 +394,9 @@ public class ObjectFactory {
         return new ArrayOfModelGetONT();
     }
 
-    /**
-     * Create an instance of {@link ActivacionConsultaDatos }
-     * 
-     */
-    public ActivacionConsultaDatos createActivacionConsultaDatos() {
-        return new ActivacionConsultaDatos();
-    }
+   
 
-    /**
-     * Create an instance of {@link ActivacionConsultaDatosResponse }
-     * 
-     */
-    public ActivacionConsultaDatosResponse createActivacionConsultaDatosResponse() {
-        return new ActivacionConsultaDatosResponse();
-    }
+    
 
     /**
      * Create an instance of {@link GetSearchONTDash }
@@ -661,13 +606,7 @@ public class ObjectFactory {
         return new OntOptical();
     }
 
-    /**
-     * Create an instance of {@link ValidAddDrmCustomerProfileFusion }
-     * 
-     */
-    public ValidAddDrmCustomerProfileFusion createValidAddDrmCustomerProfileFusion() {
-        return new ValidAddDrmCustomerProfileFusion();
-    }
+    
 
     /**
      * Create an instance of {@link MdlBscQry }
@@ -717,13 +656,7 @@ public class ObjectFactory {
         return new ModelValidReturn();
     }
 
-    /**
-     * Create an instance of {@link ValidAddDrmCustomerProfileFusionEnlace }
-     * 
-     */
-    public ValidAddDrmCustomerProfileFusionEnlace createValidAddDrmCustomerProfileFusionEnlace() {
-        return new ValidAddDrmCustomerProfileFusionEnlace();
-    }
+  
 
     /**
      * Create an instance of {@link ValidAddDrmCustomerProfileFusionEnlaceResponse }
