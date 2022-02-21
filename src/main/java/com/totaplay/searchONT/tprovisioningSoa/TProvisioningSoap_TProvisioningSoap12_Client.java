@@ -50,15 +50,15 @@ public final class TProvisioningSoap_TProvisioningSoap12_Client {
         TProvisioningSoap port = ss.getTProvisioningSoap12();
 
        
-        
-        {
-        System.out.println("Invoking getSearchONTDash...");
-        java.lang.String _getSearchONTDash_strvalue = "";
-            com.totaplay.searchONT.tprovisioningSoa.ArrayOfModelGetONT _getSearchONTDash__return = port.getSearchONTDash(_getSearchONTDash_strvalue);
-        System.out.println("getSearchONTDash.result=" + _getSearchONTDash__return);
-
-
-        }
+//        
+//        {
+//        System.out.println("Invoking getSearchONTDash...");
+//        java.lang.String _getSearchONTDash_strvalue = "";
+//            com.totaplay.searchONT.tprovisioningSoa.ArrayOfModelGetONT _getSearchONTDash__return = port.getSearchONTDash(_getSearchONTDash_strvalue);
+//        System.out.println("getSearchONTDash.result=" + _getSearchONTDash__return);
+//
+//
+//        }
       
        
         {
